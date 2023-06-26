@@ -53,8 +53,8 @@
 #### You can push your Container to dockerhub and make your website live aka deploy it
 #### on a online server for free.
 ### Special note: When installing docker be sure to read the requirements for your operating system.
-### It is common to get a BSOD, blue screen if not setup properly with your anti virus, 
-### as you are running linux/ubuntu on your windows Machine.
+### It is possibleto get a BSOD, blue screen if not setup properly with your anti virus, 
+### as you are running linux/ubuntu on your windows Machine. Or which ever OP you are running. 
 
 # *HAVE FUN, AND ENJOY THE APP!!!! And recerating and running it!
 
