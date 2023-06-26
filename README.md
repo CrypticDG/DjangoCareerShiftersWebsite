@@ -1,7 +1,10 @@
 # *CareershiftersWebsite*
 ## _Discuss about Switching careers with fellow folk on this forum...._
+
 ### 1. IDE (Visual studio or your preferred IDE & Python with django module)
-### 2. The Docs file, is used with phinx which automates the documentations & layout of files.  
+
+### 2. The Docs file, is used with phinx which automates the documentations & layout of files. 
+
 #### 2.1 Docs\build\index.html (access Document here in index.html, instal sphinx and install  sphinx_rtd_theme) Have a look at the conf.py file. Docstrings to describe every class, definition etc. will be an audacious task. For now you can see the layout of how django works.
 #### There are some inline comments, without cluttering code. 
 #### Will add some more docstrings when I find it useful. Plenty of Django tutorials online. 
@@ -9,7 +12,9 @@
 #### choco install sphinx
 #### pip install -U sphinx
 #### py -m pip install sphinx-rtd-theme
+
 ### 3. Installation (Below is using powershell terminal, command prompt differs a little bit)
+
 ### Also note below is for Windows OS, commands may differ a little for linux and mac. 
 #### 3.1 Clone repository with command below. Must have Git & Github installed. 
 #### git clone https://github.com/CrypticDG/CareershiftersWebsite
@@ -27,12 +32,18 @@
 #### 3.5 run you app on local server (not deployed live, see Docker section 5)
 #### py manage.py runserver (ctrl click on url, a window will open in your default browzer, sign up and play with app, ctrl c to break local server connection )
 #### you will see below
-#### insert pic
+
+![running app terminal](https://github.com/CrypticDG/DjangoCareerShiftersWebsite/assets/132646907/5aa0975d-6ec8-4426-a6c5-819105134120)
+
 #### run 'deactivate' in terminal when done, this deactivates your virtual environment
 #### and you can further alter program as you wish. 
+
 ### 4. Preview of the app
-#### Insert pic
+
+![careershiftforum pic](https://github.com/CrypticDG/DjangoCareerShiftersWebsite/assets/132646907/038ac022-8ea7-4767-b11e-18a2cdb71107)
+
 ### 5. Docker (Containerzing/deploying website online) If you want to so its the same on every device.
+
 #### Docker acts as a VM(Virtual Machine)
 #### Dockerfiles are setup and included to upload to docker desktop
 #### Here you can google how to create image and container
