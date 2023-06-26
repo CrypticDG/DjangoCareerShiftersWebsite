@@ -32,7 +32,7 @@
 #### and you can further alter program as you wish. 
 ### 4. Preview of the app
 #### Insert pic
-#### 5. Docker (Containerzing/deploying website online) If you want to so its the same on very device.
+### 5. Docker (Containerzing/deploying website online) If you want to so its the same on very device.
 #### Docker acts as a VM(Virtual Machine)
 #### Dockerfiles are setup and included to upload to docker desktop
 #### Here you can google how to create image and container
