@@ -18,19 +18,18 @@
 #### 3.3 Create a virtual environment
 #### py -m pip install virtualenv (Instal virtual environment)
 #### virtualenv 'env1' - (create virtual environment and give it a name)
-#### env1\scripts\activate (create virtual environment and give it a name)
-#### 3.4 Install requirements.txt, (this will install all the modules you will need to run this web #### app)
-#### env1\scripts\activate (create virtual environment and give it a name)
+#### env1\scripts\activate (activate virtual envrionment that stored allyou modules for your pproject)
+#### 3.4 Install requirements.txt, (this will install all the modules you will need to run this webapp)
 #### py -m pip install -r requirements.txt
 #### make migrations every time models are changed
 #### py manage.py makemigrations
 #### py manage.py migrate
 #### 3.5 run you app on local server (not deployed live, see Docker section 5)
-#### py manage.py runserver (ctrl click on url, a window will open in  you default browzer, sign up and play with app, ctrl c to break local server connection )
+#### py manage.py runserver (ctrl click on url, a window will open in your default browzer, sign up and play with app, ctrl c to break local server connection )
 #### you will see below
 #### insert pic
 #### run 'deactivate' in terminal when done, this deactivates your virtual environment
-### and you can further alter program as you wish 
+### and you can further alter program as you wish. 
 ### 4. Preview of the app
 #### Insert pic
 #### 5. Docker (Deploying website online) If you want to. 
