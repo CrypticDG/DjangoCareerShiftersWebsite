@@ -6,9 +6,13 @@ from django.db.models import Q
 from django.contrib.auth import authenticate, login, logout
 from .models import Room, Topic, Message, User
 from .forms import RoomForm, UserForm, MyUserCreationForm
-
+"""Below are all the view methods.
+   To Update, create or delete certain elements login is required
+"""
 
 def loginPage(request):
+    """Login validation."""
+
     page = 'login'
     if request.user.is_authenticated:
         return redirect('home')
