@@ -2,7 +2,7 @@
 ## _Discuss about Switching careers with fellow folk on this forum...._
 ### 1. IDE (Visual studio or your preferred IDE & Python with django module)
 ### 2. The Docs file, is used with phinx which automates the documentations & layout of files.  
-#### 2.1 Docs\build\index.html (access Document here in index.html, instal sphinx and install #### #### sphinx_rtd_theme) Have a look at the conf.py file. Docstrings to describe every class, definition #### etc. will be an audacious task. For now you can see the layout of how django works.
+#### 2.1 Docs\build\index.html (access Document here in index.html, instal sphinx and install  sphinx_rtd_theme) Have a look at the conf.py file. Docstrings to describe every class, definition etc. will be an audacious task. For now you can see the layout of how django works.
 #### With some inline comments, and too out many as it was cluttering the code. 
 #### Will add some more docstrings when I find it useful. Plenty of Django tutorials online. 
 ### to read sphinx documentation install below
