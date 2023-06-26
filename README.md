@@ -44,6 +44,7 @@
 ![careershiftforum pic](https://github.com/CrypticDG/DjangoCareerShiftersWebsite/assets/132646907/038ac022-8ea7-4767-b11e-18a2cdb71107)
 
 ### 5. Docker (Containerzing/deploying website online) If you want to so its the same on every device.
+### link to hub.docker.com remote repository. https://hub.docker.com/repository/docker/crypticdg/careershiftersforum/general
 
 #### Docker acts as a VM(Virtual Machine)
 #### Dockerfiles are setup and included to upload to docker desktop
