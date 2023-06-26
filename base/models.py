@@ -5,6 +5,8 @@ from django.contrib.auth.models import AbstractUser
 
 
 class User(AbstractUser):
+
+    """User Class"""
     
     name = models.CharField(max_length=200, null=True)
     email = models.EmailField(unique=True, null=True)  
@@ -20,6 +22,9 @@ class User(AbstractUser):
 
 
 class Topic(models.Model):
+    """Topic Class"""
+
+
     name = models.CharField(max_length=200)
 
     def __str__(self):
@@ -27,6 +32,8 @@ class Topic(models.Model):
 
 
 class Room(models.Model):
+    """Room Class"""
+
     host = models.ForeignKey(User, on_delete=models.SET_NULL, null=True)
     topic = models.ForeignKey(Topic, on_delete=models.SET_NULL, null=True)
     name = models.CharField(max_length=200)
@@ -44,6 +51,8 @@ class Room(models.Model):
 
 
 class Message(models.Model):
+    """Message Class"""
+
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     room = models.ForeignKey(Room, on_delete=models.CASCADE)
     body = models.TextField()
