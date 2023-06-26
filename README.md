@@ -5,7 +5,7 @@
 
 ### 2. The Docs file, is used with phinx which automates the documentations & layout of files. 
 
-#### 2.1 Docs\build\index.html (access Document here in index.html, instal sphinx and install  sphinx_rtd_theme) Have a look at the conf.py file. Docstrings to describe every class, definition etc. will be an audacious task. For now you can see the layout of how django dango project was built. Some dockstrings added. 
+#### 2.1 Docs\build\index.html (access Document here in index.html, instal sphinx and install  sphinx_rtd_theme) Have a look at the conf.py file. Docstrings to describe every class, definition etc. will be an heavy task. For now you can see the layout of how django project was built. Some dockstrings added. 
 #### There are some inline comments, without cluttering code. 
 #### Will add some more docstrings when I find it useful. I suggest you watch Django tutotials how setting.py, static files,
 #### models.py, forms.py, views.py & urls.py are linked and all run through manage.py. And research Models of how Django is setup. 
