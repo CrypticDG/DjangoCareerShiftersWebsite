@@ -32,20 +32,18 @@
 #### and you can further alter program as you wish. 
 ### 4. Preview of the app
 #### Insert pic
-#### 5. Docker (Deploying website online) If you want to. 
+#### 5. Docker (Containerzing/deploying website online) If you want to so its the same on very device.
+#### Docker acts as a VM(Virtual Machine)
 #### Dockerfiles are setup and included to upload to docker desktop
 #### Here you can google how to create image and container
 #### You can create dockerhub account online, where you can create a repo
 #### You can push your Container to dockerhub and make your website live aka deploy it
 #### on a online server for free.
-### Special note: When installing docker be sure to read the requirements for your operating system
-### Do exactly as they say step by step, otherwise you pc might crash and get bluescreen(BSOD).
-### Also then exclude your antivirus and firewall from blocking dockfiles.exe's.
-### Some work is needed here as you run your local machine on Windows but the server on Linux. 
-### You can switch container to windows, but leave it on linux to run on docker playground to see
-### that you app works on a another host/machine.
-### Disclaimer: Use docker advise at your own risk! (:  :)
+### Special note: When installing docker be sure to read the requirements for your operating system.
+### It is common to get a BSOD, blue screen if not setup properly with your anti virus, 
+### as you are running linux/ubuntu on your windows Machine.
 
+# *HAVE FUN, AND ENJOY THE APP!!!! And recerating it and running it!
 
 
 
