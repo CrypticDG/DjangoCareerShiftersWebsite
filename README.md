@@ -44,17 +44,16 @@
 
 ![careershiftforum pic](https://github.com/CrypticDG/DjangoCareerShiftersWebsite/assets/132646907/038ac022-8ea7-4767-b11e-18a2cdb71107)
 
-### 5. Docker (Containerzing/deploying website online) If you want to so its the same on every device.
+### 5. Docker (Containerzing apps) If you want to so its the same on every device.
 ### link to hub.docker.com remote repository. https://hub.docker.com/repository/docker/crypticdg/careershiftersforum/general
 
 #### Docker acts as a VM(Virtual Machine)
 #### Dockerfiles are setup and included to upload to docker desktop
 #### Here you can google how to create image and container
 #### You can create dockerhub account online, where you can create a repo
-#### You can push your Container to dockerhub and make your website live aka deploy it
-#### on a online server for free.
+#### You can push your Container to dockerhub for others to download and it wil run the same on any system. 
 ### Special note: When installing docker be sure to read the requirements for your operating system.
-### It is possibleto get a BSOD, blue screen if not setup properly with your anti virus, 
+### It is possible to get a BSOD, blue screen if not setup properly with your anti virus, 
 ### as you are running linux/ubuntu on your windows Machine. Or which ever OP you are running. 
 
 # *HAVE FUN, AND ENJOY THE APP!!!! And recreating, adding diffirent functionality and running it!
