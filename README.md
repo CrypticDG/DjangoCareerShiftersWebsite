@@ -43,7 +43,7 @@
 ### It is common to get a BSOD, blue screen if not setup properly with your anti virus, 
 ### as you are running linux/ubuntu on your windows Machine.
 
-# *HAVE FUN, AND ENJOY THE APP!!!! And recerating it and running it!
+# *HAVE FUN, AND ENJOY THE APP!!!! And recerating and running it!
 
 
 
