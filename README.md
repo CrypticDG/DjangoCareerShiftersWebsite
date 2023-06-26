@@ -13,7 +13,7 @@
 #### choco install sphinx
 #### pip install -U sphinx
 #### py -m pip install sphinx-rtd-theme
-## Sphinx theme is not working, it uses alabaster as deafault because theme is unsupoorted with new version of Sphinx
+## Sphinx theme may not work, it may use alabaster theme as deafault because the theme is unsupported with new version of Sphinx
 
 ### 3. Installation (Below is using powershell terminal, command prompt differs a little bit)
 
