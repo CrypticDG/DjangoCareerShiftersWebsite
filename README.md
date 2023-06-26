@@ -57,7 +57,7 @@
 ### It is possibleto get a BSOD, blue screen if not setup properly with your anti virus, 
 ### as you are running linux/ubuntu on your windows Machine. Or which ever OP you are running. 
 
-# *HAVE FUN, AND ENJOY THE APP!!!! And recerating and running it!
+# *HAVE FUN, AND ENJOY THE APP!!!! And recreating, adding diffirent functionality and running it!
 
 
 
