@@ -29,7 +29,7 @@
 #### you will see below
 #### insert pic
 #### run 'deactivate' in terminal when done, this deactivates your virtual environment
-### and you can further alter program as you wish. 
+#### and you can further alter program as you wish. 
 ### 4. Preview of the app
 #### Insert pic
 #### 5. Docker (Deploying website online) If you want to. 
