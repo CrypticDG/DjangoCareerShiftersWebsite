@@ -44,15 +44,27 @@
 
 ![careershiftforum pic](https://github.com/CrypticDG/DjangoCareerShiftersWebsite/assets/132646907/038ac022-8ea7-4767-b11e-18a2cdb71107)
 
-### 5. Docker (Containerzing apps) If you want to so its the same on every device.
+### 5. Docker (Containerzing apps) If you want to so its the same on every device. (Have Docker Hub and Docker desktop installed)
 ### link to hub.docker.com remote repository. https://hub.docker.com/repository/docker/crypticdg/careershiftersforum/general
 
-#### Docker acts as a VM(Virtual Machine)
-#### Dockerfiles are setup and included to upload to docker desktop
-#### Here you can google how to create image and container
-#### You can create dockerhub account online, where you can create a repo
-#### You can push your Container to dockerhub for others to download and it wil run the same on any system. 
-### Special note: When installing docker be sure to read the requirements for your operating system.
+#### Docker is a popular virtualization software that helps its users in developing, deploying, monitoring, 
+#### and running applications in a Docker Container with all their dependencies. 
+#### (ref, https://www.simplilearn.com/tutorials/docker-tutorial/docker-vs-virtual-machine)
+
+#### Run in terminal: docker build -t python-django-app(your image name) . (creates image, can see image in docker desktop)   
+#### Run in terminal: docker run python-django-app(your image name) (creates/runs container, can see container in docker desktop)   
+#### Run in terminal: print id: docker ps
+#### Run in terminal: stop id/close, shut down containers: docker stop [ID]  (first three letters of ID)
+#### ----Deploy docker image----
+#### https://hub.docker.com/
+#### create repository call it my-website(or any name of your choice), make sure its public
+#### Run in terminal: run, docker tag [name of website/app under build] my-website [user]/[repo]
+#### Run in terminal: example: docker tag my-website john/my-website
+#### Run in terminal: docker login
+#### Run in terminal: upload image:  docker push [user]/[repo] ie. docker push john/my-website
+#### You will see linux image under your repo in docker hub online
+
+### Special note: When installing docker be sure to read the requirements/documentation for your operating system.
 ### It is possible to get a BSOD, blue screen if not setup properly with your anti virus, 
 ### as you are running linux/ubuntu on your windows Machine. Or which ever OP you are running. 
 
