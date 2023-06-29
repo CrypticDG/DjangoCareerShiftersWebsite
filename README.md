@@ -19,7 +19,7 @@
 
 ### Also note below is for Windows OS, commands may differ a little for linux and mac. 
 #### 3.1 Clone repository with command below. Must have Git & Github installed. 
-#### git clone https://github.com/CrypticDG/CareershiftersWebsite
+#### git clone https://github.com/CrypticDG/DjangoCareerShiftersWebsite
 #### 3.2 Move to project root folder
 #### cd careershiftforum
 #### 3.3 Create a virtual environment
