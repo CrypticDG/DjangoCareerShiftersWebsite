@@ -28,6 +28,8 @@
 #### env1\scripts\activate (activate virtual envrionment that stored allyou modules for your pproject)
 #### 3.4 Install requirements.txt, (this will install all the modules you will need to run this webapp)
 #### py -m pip install -r requirements.txt
+#### run 'deactivate' in terminal when done, this deactivates your virtual environment
+#### and you can further alter program as you wish. 
 #### make migrations every time models are changed
 #### py manage.py makemigrations
 #### py manage.py migrate
@@ -40,8 +42,6 @@
 
 ![running app terminal](https://github.com/CrypticDG/DjangoCareerShiftersWebsite/assets/132646907/5aa0975d-6ec8-4426-a6c5-819105134120)
 
-#### run 'deactivate' in terminal when done, this deactivates your virtual environment
-#### and you can further alter program as you wish. 
 
 ### 4. Preview of the app
 
