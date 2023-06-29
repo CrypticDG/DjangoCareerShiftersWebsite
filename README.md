@@ -55,7 +55,9 @@
 #### (ref, https://www.simplilearn.com/tutorials/docker-tutorial/docker-vs-virtual-machine)
 
 #### Run in terminal: docker build -t python-django-app(your image name) . (creates image, can see image in docker desktop)   
-#### Run in terminal: docker run python-django-app(your image name) (creates/runs container, can see container in docker desktop)   
+#### Run in terminal: docker run -d -p 8000:8000 python-django-app (your image name) (creates/runs container, can see container in docker desktop)  
+#### You will see image and container and click play to go to app
+#### or navigate to http://localhost:8000 in browzer
 #### Run in terminal: print id: docker ps
 #### Run in terminal: stop id/close, shut down containers: docker stop [ID]  (first three letters of ID)
 #### ----Deploy docker image----
