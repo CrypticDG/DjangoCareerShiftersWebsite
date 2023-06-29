@@ -31,6 +31,8 @@
 #### make migrations every time models are changed
 #### py manage.py makemigrations
 #### py manage.py migrate
+#### python manage.py createsuperuser (You can add admin like this in url: http://127.0.0.1:8000/admin/)
+#### login and create your own topics
 #### 3.5 run you app on local server (not deployed live, see Docker section 5)
 #### py manage.py runserver (ctrl click on url, a window will open in your default browzer, sign up and play with app, ctrl c to break local server connection )
 #### you will see below
