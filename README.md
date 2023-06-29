@@ -67,9 +67,11 @@
 #### Run in terminal: upload image:  docker push [user]/[repo] ie. docker push john/my-website
 #### You will see linux image under your repo in docker hub online
 
-### Special note: When installing docker be sure to read the requirements/documentation for your operating system.
-### It is possible to get a BSOD, blue screen if not setup properly with your anti virus, 
-### as you are running linux/ubuntu on your windows Machine. Or which ever OP you are running. 
+#### Special note: When installing docker be sure to read the requirements/documentation for your operating system.
+#### It is possible to get a BSOD, blue screen if not setup properly with your anti virus, 
+#### as you are running linux/ubuntu on your windows Machine. Or which ever OP you are running. 
+#### Also install on D drive and move wsl files/images to large HDD as it takes up huge space
+#### Also deactivate experimental feautures on Docker desktop unless you have large HDD
 
 # *HAVE FUN, AND ENJOY THE APP!!!! And recreating, adding diffirent functionality and running it!
 
