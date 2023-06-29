@@ -21,7 +21,7 @@
 #### 3.1 Clone repository with command below. Must have Git & Github installed. 
 #### git clone https://github.com/CrypticDG/DjangoCareerShiftersWebsite
 #### 3.2 Move to project root folder
-#### cd careershiftforum
+#### cd name of root folder
 #### 3.3 Create a virtual environment
 #### py -m pip install virtualenv (Instal virtual environment)
 #### virtualenv 'env1' - (create virtual environment and give it a name)
