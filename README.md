@@ -48,7 +48,7 @@
 ![careershiftforum pic](https://github.com/CrypticDG/DjangoCareerShiftersWebsite/assets/132646907/038ac022-8ea7-4767-b11e-18a2cdb71107)
 
 ### 5. Docker (Containerzing apps) If you want to so its the same on every device. (Have Docker Hub and Docker desktop installed)
-### link to hub.docker.com remote repository. https://hub.docker.com/repository/docker/crypticdg/careershiftersforum/general
+### link to hub.docker.com remote repository. Deleted, use clone github and create image and container in docker.
 
 #### Docker is a popular virtualization software that helps its users in developing, deploying, monitoring, 
 #### and running applications in a Docker Container with all their dependencies. 
